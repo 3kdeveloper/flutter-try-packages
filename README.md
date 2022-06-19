@@ -1,16 +1,42 @@
-# flutter_try_packages
+# Try Flutter Packages
 
-A new Flutter project.
+In this project i will try different type of flutter packages.
 
-## Getting Started
+## Packages Used
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<!-- <img src="" alt="" width="250" height="500">  -->
+ 
+ 
+## License
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+# Hi, I'm 3kdeveloper! 👋
+
+
+## Features
+
+- Popular Pacakges
+- Cross platform
+
+
+## 🛠 Skills
+Flutter, Dart, AdobeXd...
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at https://github.com/3kdeveloper
+
+
+## Authors
+
+- [@3kdeveloper](https://github.com/3kdeveloper)
+
+
+## 🚀 About Me
+I'm a full stack flutter developer.
